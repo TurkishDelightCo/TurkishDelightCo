@@ -20,8 +20,8 @@
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<h2 align="left">Streak:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turkishdelightco&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="turkishdelightco" /></p>
+<h2 align="left">Stats:</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turkishdelightco&show_icons=true&theme=tokyonight&locale=en" alt="turkishdelightco" /></p>
+[![Turkish Delight's GitHub stats-Dark D](https://github-readme-stats.vercel.app/api?username=turkishdelightco&show_icons=true&theme=monokai#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Turkish Delight's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=turkishdelightco&show_icons=true&theme=rose#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
