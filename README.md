@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TurkishDelightCo](https://github.com/TurkishDelightCo)
-
 - 📫 How to reach me **turkishdelightco24@gmail.com**
 
 <h2 align="left">Languages and Tools:</h2>
