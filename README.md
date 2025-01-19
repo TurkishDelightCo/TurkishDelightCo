@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Turkish Delight</h1>
-<h3 align="center">A passionate iOS developer based in Mauritius</h3>
+<h3 align="center">A passionate developer based in Mauritius</h3>
 
 <h2 align="left">About Me:</h2>
 
-- 🔭 I’m currently working on [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- 🔭 I’m currently working on [Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/)
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **HTML**
 
 - 📫 How to reach me **turkishdelightco24@gmail.com**
 
