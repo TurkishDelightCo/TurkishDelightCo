@@ -19,11 +19,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TurkishDelightCo&show_icons=true&theme=monokai"
+    srcset="https://github-readme-stats.vercel.app/api?username=TurkishDelightCo&show_icons=true&theme=vue-dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TurkishDelightCo&show_icons=true&theme=swift"
+    srcset="https://github-readme-stats.vercel.app/api?username=TurkishDelightCo&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=TurkishDelightCo&show_icons=true" />
@@ -31,11 +31,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkishDelightCo&theme=monokai&card_width=250px&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkishDelightCo&theme=vue-dark&card_width=250px&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset=https://github-readme-stats.vercel.app/api/top-langs/?username=TurkishDelightCo&theme=swift&card_width=250px&show_icons=true"
+    srcset=https://github-readme-stats.vercel.app/api/top-langs/?username=TurkishDelightCo&theme=vue&card_width=250px&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkishDelightCo&card_width=250px&show_icons=true" />
